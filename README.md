@@ -10,4 +10,7 @@ Perfect for students and beginners who want to learn C step by step.
 ## ✨ What's Inside?
 - 📝 **Handwritten Notes** – Clear and simple notes for revision  
 - 💻 **C Code Files** – Well-structured programs with examples  
-- 📅 **Daily Uploads** – One module uploaded every day!  
+- 📅 **Daily Uploads** – One module uploaded every day!
+
+- Module 1 (Introduction)
+- Module 2 (Stack)
