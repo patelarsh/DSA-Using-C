@@ -12,5 +12,8 @@ Perfect for students and beginners who want to learn C step by step.
 - 💻 **C Code Files** – Well-structured programs with examples  
 - 📅 **Daily Uploads** – One module uploaded every day!
 
+---
+
+  ## 📂 Repository Structure
 - Module 1 (Introduction)
 - Module 2 (Stack)
